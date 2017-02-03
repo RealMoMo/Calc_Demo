@@ -1,4 +1,4 @@
-# calc_demo---第一周学习Android的练手项目
+# calc_demo
 简易计算器
 =========
 作者：RealMoMo
